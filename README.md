@@ -1,0 +1,2 @@
+#Documind - AI Document Q&A Assistant
+A retrieval-augmented generation(RAG) system that allow users to upload documents and ask questions, recieveing accurate, cited answers. Built with Langchain, ChromaDB, and Groq.
